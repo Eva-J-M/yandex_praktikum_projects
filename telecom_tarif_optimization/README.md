@@ -23,5 +23,8 @@
 ## Используемые библиотеки
 *pandas, numpy, matplotlib, plotly, scipy*
 
+## Презентация на основе анализа
+https://yadi.sk/i/4nI49UwjpH5esw
+
 ## Примечание
 Поскольку графики в plotly не отображаются непосредственно на github, будет удобнее посмотреть проект, вбив его линк в NB viewer https://nbviewer.jupyter.org/github/Eva-J-M/yandex_praktikum_projects/blob/main/telecom_tarif_optimization/telecom_tarif_optimization.ipynb
