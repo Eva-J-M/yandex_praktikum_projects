@@ -11,5 +11,5 @@
 Были сделаны рекомендации по наиболее выгодным источникам трафика и платформам, а также отмечены наиболее прибыльные когорты пользователей и предложена схема работы с ними.  
 
 ## Примечание
-Поскольку не все графики отображаются непосредственно на github, будет удобнее посмотреть проект, вбив его линк в NB viewer https://nbviewer.jupyter.org/github/Eva-J-M/yandex_praktikum_projects/blob/main/telecom_tarif_optimization/theatre_tickets_marketing_analysis.ipynb
+Поскольку не все графики отображаются непосредственно на github, будет удобнее посмотреть проект, вбив его линк в NB viewer https://nbviewer.jupyter.org/github/Eva-J-M/yandex_praktikum_projects/blob/main/theatre_tickets/theatre_tickets_marketing_analysis.ipynb
 
